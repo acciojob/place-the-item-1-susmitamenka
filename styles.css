@@ -5,8 +5,9 @@
 	flex-wrap:wrap;
 	height:150px;
 	font-size:30px;
-	justify-content:space-around;
-	gap:5px;
+	justify-content:space-between;
+	align-items:center;
+	
 	
 	/* background-color:green; */
 }
